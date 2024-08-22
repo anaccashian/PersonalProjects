@@ -14,8 +14,9 @@ Function: Define a function classify_sentiment() that uses keyword matching to d
 ## Example: 
 Classifying "I love this product" should return "positive".
 
-## Dataset: Sentiment140 - https://www.kaggle.com/datasets/kazanova/sentiment140
+## Dataset: Sentiment140
 Description: This dataset contains tweets labeled as positive or negative. It's a great starting point for basic sentiment analysis tasks.
+https://www.kaggle.com/datasets/kazanova/sentiment140
 
 ## Python Code
 x = "Hello"
