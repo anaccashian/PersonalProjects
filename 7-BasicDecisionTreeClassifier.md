@@ -14,5 +14,9 @@ Function: Create a decision tree function classify() using if-else conditions ba
 ## Example: 
 Classify an individual as "high" or "low" income based on age and income thresholds.
 
+## Dataset: Iris Dataset
+Description: The Iris dataset is a classic dataset for classification tasks. It contains features of iris flowers and is often used to demonstrate decision tree algorithms.
+https://archive.ics.uci.edu/dataset/53/iris
+
 ## Python Code
 x = "Hello"
