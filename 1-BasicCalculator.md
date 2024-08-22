@@ -1,7 +1,5 @@
 # Basic Calculator
 
-<img src="[paste-your-image-url-here](https://github.com/anaccashian/PersonalProjects/blob/main/Calculator.webp)" width="400" alt="Basic Calculator">
-
 ![Basic Calculator](https://github.com/anaccashian/PersonalProjects/blob/main/Calculator.webp)
 
 ## Description
