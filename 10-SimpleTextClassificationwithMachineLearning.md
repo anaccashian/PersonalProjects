@@ -14,5 +14,9 @@ Function: Use TfidfVectorizer and LogisticRegression from Scikit-Learn. Define t
 ## Example: 
 Classify texts into categories like "Technology", "Health", or "Finance".
 
+## Dataset: BBC News Classification Dataset
+Description: This dataset contains news articles categorized into different topics, such as "Technology" and "Health," which is perfect for multi-class text classification.
+https://www.kaggle.com/c/learn-ai-bbc
+
 ## Python Code
 x = "Hello"
