@@ -14,5 +14,9 @@ Function: Implement a function is_spam() to check email content for spam-related
 ## Example: 
 Emails containing "buy now" should be classified as spam.
 
+## Dataset: SMS Spam Collection Dataset
+Description: This dataset contains SMS messages labeled as spam or not spam. It's widely used for building simple spam detection models
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
 ## Python Code
 x = "Hello"
