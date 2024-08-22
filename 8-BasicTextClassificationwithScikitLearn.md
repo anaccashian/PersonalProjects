@@ -1,6 +1,6 @@
 # Basic Text Classification with Scikit-Learn
 
-![Basic Text Classification with Scikit-Learn](https://github.com/anaccashian/PyClub/blob/main/Images/Classifier.webp)
+![Basic Text Classification with Scikit-Learn](https://github.com/anaccashian/PyClub/blob/main/Images/Basic.webp)
 
 ## Description
 Use Scikit-Learn to build a text classifier for short texts. This project introduces machine learning libraries and basic text classification.
