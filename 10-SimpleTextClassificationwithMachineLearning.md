@@ -1,6 +1,6 @@
 # Simple Text Classification with Machine Learning
 
-![Simple Text Classification with Machine Learning]([https://github.com/anaccashian/PyClub/blob/main/Images/Basic.webp](https://github.com/anaccashian/PyClub/blob/main/Images/Chat.webp))
+![Simple Text Classification with Machine Learning](https://github.com/anaccashian/PyClub/blob/main/Images/Machine.webp)
 
 ## Description
 Implement a machine learning model for text classification to categorize texts into multiple categories. This project introduces advanced classification techniques.
