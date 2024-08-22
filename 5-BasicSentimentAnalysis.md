@@ -1,6 +1,6 @@
 # Basic Sentiment Analysis
 
-![Basic Sentiment Analysis](https://github.com/anaccashian/PyClub/blob/main/Images/SimpleContact.webp)
+![Basic Sentiment Analysis](https://github.com/anaccashian/PyClub/blob/main/Images/Sentiment.webp)
 
 ## Description
 Analyze the sentiment of short text to determine if it’s positive or negative. This project introduces basic text analysis techniques.
