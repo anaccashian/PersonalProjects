@@ -1,6 +1,6 @@
 # Basic Calculator
 
-![Basic Calculator](https://github.com/anaccashian/PersonalProjects/blob/main/Calculator.webp)
+![Basic Calculator](https://github.com/anaccashian/PyClub/blob/main/Images/Calculator.webp)
 
 ## Description
 Description: Create a simple calculator to perform basic arithmetic operations. This introductory project will help you practice basic function creation and handling user input.
