@@ -6,7 +6,6 @@
 Develop a to-do list where users can add, view, and delete tasks. This project builds on your skills in list manipulation and function creation.
 
 ## Objective: Create a to-do list with functionalities to add, view, and delete tasks.
-
 Key Features: Add tasks, View tasks, Delete tasks.
 
 ##  Guidelines:
