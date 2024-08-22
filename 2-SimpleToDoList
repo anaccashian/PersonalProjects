@@ -1,18 +1,19 @@
-# Basic Calculator
+# Simple To-Do List Application
 
-![Basic Calculator]()
+![Simple To-Do List Application](https://github.com/anaccashian/PyClub/blob/main/Images/ToDo.webp)
 
 ## Description
-Description: Create a simple calculator to perform basic arithmetic operations. This introductory project will help you practice basic function creation and handling user input.
+Develop a to-do list where users can add, view, and delete tasks. This project builds on your skills in list manipulation and function creation.
 
-## Objective: Build a calculator for addition, subtraction, multiplication, and division.
-Key Features: Addition, Subtraction, Multiplication, Division.
+## Objective: Create a to-do list with functionalities to add, view, and delete tasks.
+
+Key Features: Add tasks, View tasks, Delete tasks.
 
 ##  Guidelines:
-Function: Implement functions for each arithmetic operation (add(), subtract(), multiply(), divide()). Each function should take two numbers as input and return the result of the operation.
+Function: Use a list to store tasks. Define functions to add_task(), view_tasks(), and delete_task(). These functions should modify and display the list of tasks.
 
 ## Example: 
-add(5, 3) should return 8.
+Adding "Buy groceries" should include this task in the list, which can be viewed with view_tasks().
 
 ## Python Code
 x = "Hello"
