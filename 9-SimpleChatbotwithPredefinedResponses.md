@@ -1,6 +1,6 @@
 # Simple Chatbot with Predefined Responses
 
-![Simple Chatbot with Predefined Responses](https://github.com/anaccashian/PyClub/blob/main/Images/Basic.webp)
+![Simple Chatbot with Predefined Responses]([https://github.com/anaccashian/PyClub/blob/main/Images/Basic.webp](https://github.com/anaccashian/PyClub/blob/main/Images/Chat.webp))
 
 ## Description
 Create a chatbot that responds to user input with predefined responses. This project expands on conversational systems and rule-based responses.
