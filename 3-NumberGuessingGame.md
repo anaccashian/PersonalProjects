@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-![Simple To-Do List Application](https://github.com/anaccashian/PyClub/blob/main/Images/ToDo.webp)
+![Number Guessing Game](https://github.com/anaccashian/PyClub/blob/main/Images/Guess.webp)
 
 ## Description
 Implement a game where the user guesses a randomly generated number between 1 and 100. This project introduces basic looping and random number generation.
