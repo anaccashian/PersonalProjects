@@ -1,6 +1,6 @@
 # Basic Decision Tree Classifier
 
-![Basic Decision Tree Classifier](https://github.com/anaccashian/PyClub/blob/main/Images/Spam.webp)
+![Basic Decision Tree Classifier](https://github.com/anaccashian/PyClub/blob/main/Images/Classifier.webp)
 
 ## Description
 Implement a simple decision tree to classify data based on straightforward rules. This project introduces basic decision tree concepts.
